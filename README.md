@@ -2,6 +2,8 @@
 
 Recompiled using the [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk)
 
+Currently it isn't playable and all that shows is a black screen.
+
 ## Setup
 
 1. Ensure REXSDK is set properly in your environment - see [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk) for more info
