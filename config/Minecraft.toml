@@ -3,14 +3,14 @@ file_path = "../private/Default.xex"
 out_directory_path = "../ppc"
 switch_table_file_path = "Minecraft_switch_tables.toml"
 
-restgprlr_14_address = 0x831B0B40
-savegprlr_14_address = 0x831B0AF0
-restfpr_14_address = 0x831B144C
-savefpr_14_address = 0x831B1400
-restvmx_14_address = 0x831B36E8
-savevmx_14_address = 0x831B3450
-restvmx_64_address = 0x831B377C
-savevmx_64_address = 0x831B34E4
+restgprlr_14_address = 0x82151D00
+savegprlr_14_address = 0x82151CB0
+restfpr_14_address = 0x82152C0C
+savefpr_14_address = 0x82152BC0
+restvmx_14_address = 0x82154B88
+savevmx_14_address = 0x821548F0
+restvmx_64_address = 0x82154C1C
+savevmx_64_address = 0x82154984
 
 skip_lr = false
 skip_msr = false
