@@ -3176,6 +3176,7 @@ out_directory_path = "generated"
 0x82131908 = { name = "rex_sub_82131908", size = 0x30C }
 0x82131C18 = { name = "rex_sub_82131C18", size = 0xE4 }
 0x82131D00 = { name = "rex_sub_82131D00", size = 0x154 }
+0x82131E58 = { name = "rex_sub_82131E58", size = 0x28 }
 0x82131E80 = { name = "rex_sub_82131E80", size = 0xD4 }
 0x82131F58 = { name = "rex_sub_82131F58", size = 0x4C }
 0x82131FA8 = { name = "rex_sub_82131FA8", size = 0x30 }
