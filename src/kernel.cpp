@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ostream>
 
-#include "../ppc/ppc_recomp_shared.h"
+#include "ppc/ppc_recomp_shared.h"
 #define PPC_FUNC_THROW(x) PPC_FUNC(x) { throw std::runtime_error("Missing Kernel Call: " #x); }
 
 // SIGHHH FUCK ME I SUPPOSE.

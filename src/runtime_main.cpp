@@ -17,9 +17,9 @@
 #include <unistd.h>
 #endif
 
-#include "../ppc/ppc_config.h"
-#include "../ppc/ppc_context.h"
-#include "../ppc/ppc_recomp_shared.h"
+#include "ppc/ppc_config.h"
+#include "ppc/ppc_context.h"
+#include "ppc/ppc_recomp_shared.h"
 
 namespace {
 
